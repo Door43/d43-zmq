@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zmq:home|Door43 (zmq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zmq|d43-zmq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zmq/archive/master.zip|d43-zmq.zip]]
+
+**Recent Changes**
+{{changes>ns = zmq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zmq|Ethnologue data]]
+
